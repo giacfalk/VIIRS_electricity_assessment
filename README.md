@@ -1,2 +1,2 @@
-# VIIRS_electricity_assessment
-Scripts used to compile the Enegies paper 'Estimating Electricity Consumption with NPP-VIIRS DNB Satellite Data: A Global Comparative Performance Assessment'
+# Source code
+Scripts used to compile the Enegies paper 'Interannual Variation in Night-Time Light Radiance Predicts Changes in National Electricity Consumption Conditional on Income-Level and Region'
